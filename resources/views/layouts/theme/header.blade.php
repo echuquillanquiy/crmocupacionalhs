@@ -23,7 +23,7 @@
                         <div class="media mx-auto">
                             <img src="{{ asset('assets/img/img-user.png') }}" class="img-fluid mr-2" alt="avatar">
                             <div class="media-body">
-                                <h5>Eduardo Chuquillanqui</h5>
+                                <h5>Eduardo Chuquillanqui Yupanqui</h5>
                                 <p>Developer</p>
                             </div>
                         </div>
